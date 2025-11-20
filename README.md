@@ -193,3 +193,31 @@ npm run build
 
 npm start
 
+
+------
+
+**Screenshots Section**
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](./screenshots/homepage.PNG)
+
+### 📊 Dashboard
+![Dashboard](./screenshots/dashboard.PNG)
+
+### 📅 Appointment Scheduling
+![Appointment Scheduling](./screenshots/appointment-shedule.PNG)
+
+### ❌ Appointment Cancellation
+![Appointment Cancellation](./screenshots/appointment-cancelation.PNG)
+
+### 🎉 Success Page
+![Success Page](./screenshots/sucess-page.PNG)
+
+### 🔐 Admin Verification
+![Admin Verification](./screenshots/admin-verification.PNG)
+
+### ✔️ Passkey / Verify
+![Verify](./screenshots/verify.PNG)
+
