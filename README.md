@@ -198,4 +198,45 @@ npm start
 
 **Screenshots Section**
 
+## **Screenshots**
+
+### **Onboarding**
+![Onboarding](Screenshots/onboarding.png)
+![Onboarding Step 2](Screenshots/onboarding1.png)
+
+---
+
+---
+
+### **User Dashboard**
+![Dashboard](Screenshots/dashboard.png)
+
+---
+
+### **Appointment Flow**
+
+#### Appointment Form
+![Appointment Form](Screenshots/appointmnet_form_page.png)
+
+#### Appointment Scheduled
+![Appointment Scheduled](Screenshots/appointent_schedule.png)
+
+#### Appointment Cancel
+![Appointment Cancel](Screenshots/appointment_cancel.png)
+
+---
+
+### **Admin Verification**
+![Admin Verification](Screenshots/admin_verification.png)
+
+---
+
+### **Dropdown UI**
+![Dropdown](Screenshots/dropdown.png)
+
+---
+
+### **Success Page**
+![Success Page](Screenshots/sucess_page.png)
+
 
